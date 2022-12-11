@@ -14,5 +14,5 @@ func Sum() {
 }
 
 func Avrg_3(x float64, y float64, z float64) float64 {
-	return(x + y + z) / 3
+	return(x + y + z) / 3 //This takes in the float values of x,y,z and will output the average of the three 
 }
