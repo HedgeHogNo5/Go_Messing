@@ -1,11 +1,10 @@
 package main
 
-import(
-	"hello.go"
-	"Varibles.go"
+import (
+
 )
 
-func main() {
+func Main()  {
 	Hello_World()
 	Sum()
 }
