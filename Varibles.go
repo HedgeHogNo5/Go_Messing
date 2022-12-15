@@ -18,5 +18,5 @@ func Avrg_3(x float64, y float64, z float64) float64 {
 }
 
 func Avrg_n() {
-	
+fmt.Println("What numbers are you averaging?")	
 }
