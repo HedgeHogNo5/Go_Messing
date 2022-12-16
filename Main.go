@@ -1,10 +1,7 @@
 package main
 
 import (
-
+	"strings"
+	"hello.go"
 )
-
-func Main()  {
-	Hello_World()
-	Sum()
-}
+	
