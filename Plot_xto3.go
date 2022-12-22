@@ -8,7 +8,7 @@ import (
 	"github.com/gonum/plot/vg"
 )
 
-func main() {
+func ExponetntialThree() {
 	// Create a new plot
 	p, err := plot.New()
 	if err != nil {
